@@ -1,8 +1,13 @@
 # CS-320
-Software Testing, Automation, and Quality Assurance
-Khem  Khatiwada
+
+**Software Testing, Automation, and Quality Assurance**
+
+**Khem  Khatiwada**
+
 Southern New Hampshire University
-Course Overview
+
+**Course Overview**
+
 This repository showcases selected artifacts from CS-320, with a focus on software testing, automation, and quality assurance principles. The projects demonstrate my ability to design secure, reliable backend services and apply structured unit testing techniques using JUnit.
 The work in this repository highlights my understanding of validation logic, defensive programming, requirement analysis, and automated testing strategies aligned with professional software engineering practices.
 
